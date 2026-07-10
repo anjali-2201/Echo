@@ -24,7 +24,6 @@ Echo is a full-stack real-time chat application where users can sign up, log in,
 - React.js
 - Vite
 - Tailwind CSS
-- Zustand
 - Context API
 
 ### Backend
